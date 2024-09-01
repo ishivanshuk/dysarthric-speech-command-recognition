@@ -1,0 +1,11 @@
+--2023-11-02 00:03:04--  https://thonny.org/installer-for-linux
+Resolving thonny.org (thonny.org)... 185.7.252.74
+Connecting to thonny.org (thonny.org)|185.7.252.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4415 (4.3K)
+Saving to: ‘STDOUT’
+
+-                     0%[                    ]       0  --.-KB/s               -                   100%[===================>]   4.31K  --.-KB/s    in 0s      
+
+2023-11-02 00:03:06 (1.11 GB/s) - written to stdout [4415/4415]
+
